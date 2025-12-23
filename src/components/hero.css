@@ -1,0 +1,4 @@
+.hero{
+    height: calc(100vh - 72px);
+    background: linear-gradient(90deg, #1bedfc, #88acf8);
+}
